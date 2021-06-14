@@ -1,0 +1,34 @@
+{
+  "files": {
+    "static/js/0.3fd01a3c.chunk.js": "/pinkfarm/static/js/0.3fd01a3c.chunk.js",
+    "static/js/0.3fd01a3c.chunk.js.map": "/pinkfarm/static/js/0.3fd01a3c.chunk.js.map",
+    "main.js": "/pinkfarm/static/js/main.c8b87b52.chunk.js",
+    "main.js.map": "/pinkfarm/static/js/main.c8b87b52.chunk.js.map",
+    "runtime-main.js": "/pinkfarm/static/js/runtime-main.392b85b0.js",
+    "runtime-main.js.map": "/pinkfarm/static/js/runtime-main.392b85b0.js.map",
+    "static/css/3.e7f382d2.chunk.css": "/pinkfarm/static/css/3.e7f382d2.chunk.css",
+    "static/js/3.47e224c5.chunk.js": "/pinkfarm/static/js/3.47e224c5.chunk.js",
+    "static/js/3.47e224c5.chunk.js.map": "/pinkfarm/static/js/3.47e224c5.chunk.js.map",
+    "static/js/4.cb25f46e.chunk.js": "/pinkfarm/static/js/4.cb25f46e.chunk.js",
+    "static/js/4.cb25f46e.chunk.js.map": "/pinkfarm/static/js/4.cb25f46e.chunk.js.map",
+    "static/js/5.81fb9d03.chunk.js": "/pinkfarm/static/js/5.81fb9d03.chunk.js",
+    "static/js/5.81fb9d03.chunk.js.map": "/pinkfarm/static/js/5.81fb9d03.chunk.js.map",
+    "static/js/6.12d4bafc.chunk.js": "/pinkfarm/static/js/6.12d4bafc.chunk.js",
+    "static/js/6.12d4bafc.chunk.js.map": "/pinkfarm/static/js/6.12d4bafc.chunk.js.map",
+    "static/js/7.80f01de9.chunk.js": "/pinkfarm/static/js/7.80f01de9.chunk.js",
+    "static/js/7.80f01de9.chunk.js.map": "/pinkfarm/static/js/7.80f01de9.chunk.js.map",
+    "index.html": "/pinkfarm/index.html",
+    "static/css/3.e7f382d2.chunk.css.map": "/pinkfarm/static/css/3.e7f382d2.chunk.css.map",
+    "static/js/0.3fd01a3c.chunk.js.LICENSE.txt": "/pinkfarm/static/js/0.3fd01a3c.chunk.js.LICENSE.txt",
+    "static/js/3.47e224c5.chunk.js.LICENSE.txt": "/pinkfarm/static/js/3.47e224c5.chunk.js.LICENSE.txt",
+    "static/js/4.cb25f46e.chunk.js.LICENSE.txt": "/pinkfarm/static/js/4.cb25f46e.chunk.js.LICENSE.txt",
+    "static/js/5.81fb9d03.chunk.js.LICENSE.txt": "/pinkfarm/static/js/5.81fb9d03.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "/pinkfarm/static/media/Inter.var.a738a131.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.392b85b0.js",
+    "static/css/3.e7f382d2.chunk.css",
+    "static/js/3.47e224c5.chunk.js",
+    "static/js/main.c8b87b52.chunk.js"
+  ]
+}
